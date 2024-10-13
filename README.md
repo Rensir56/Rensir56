@@ -29,10 +29,10 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Rensir56"><img src="https://img.shields.io/badge/GitHub-Rensir56-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/233945313"><img src="https://img.shields.io/badge/哔哩哔哩-AN安即-pink?logo=bilibili" /></a>
-<!-- <a href="https://wakatime.com/@Rensir56"><img src="https://wakatime.com/badge/user/2c35c5e6-381f-41e0-905c-374f5d7a80da.svg" /></a>
+<!-- <a href="https://space.bilibili.com/233945313"><img src="https://img.shields.io/badge/哔哩哔哩-AN安即-pink?logo=bilibili" /></a> -->
+<a href="https://wakatime.com/@Rensir56"><img src="https://wakatime.com/badge/user/2c35c5e6-381f-41e0-905c-374f5d7a80da.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=Rensir56" />
-</p> -->
+</p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
